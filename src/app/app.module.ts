@@ -13,7 +13,6 @@ import {SortPipe} from './sort.pipe';
     AppComponent,
     ShortenPipe,
     FilterPipe,
-    SortPipe
   ],
   imports: [
     BrowserModule,
